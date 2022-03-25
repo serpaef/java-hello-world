@@ -41,5 +41,20 @@ public class App {
 		 * END OF PRIMITIVE TYPES
 		 * */
 		
+		/*
+		 * BEGINNING OF NON-PRIMITIVE TYPES
+		 * */
+		
+		// non-primitive types should me declared uppercase
+		
+		// String is a non-primitive type that comes by default in Java
+		
+		String myString = "That's my string";
+		
+		System.out.println(myString);
+		
+		/*
+		 * END OF NON-PRIMITIVE TYPES
+		 * */
 	}
 }
